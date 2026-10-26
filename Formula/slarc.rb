@@ -1,8 +1,8 @@
 class Slarc < Formula
   desc "Archive Slack conversations you can see into searchable, re-renderable files"
   homepage "https://github.com/tednaleid/slarc"
-  url "https://github.com/tednaleid/slarc/releases/download/v0.1.1/slarc-0.1.1.tar.gz"
-  sha256 "adce4dd7717eef882ebe703de9ded43f93de5c0c0347c2d1a3b0f7e100c727e9"
+  url "https://github.com/tednaleid/slarc/releases/download/v0.1.2/slarc-0.1.2.tar.gz"
+  sha256 "c9861839ec9208ad4a1907ceffac927fd0670564b89e0810562e6551ff3372ec"
   license "MIT"
 
   depends_on "uv" => :build
